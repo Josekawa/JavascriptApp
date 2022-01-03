@@ -1,1 +1,1 @@
-# VanillaGame
+# Javascript App
